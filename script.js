@@ -9,7 +9,7 @@
 const CONFIG = {
 
   // 🔑 ACCESS PASSWORD — change to your private key
-  PASSWORD: "epai2025",
+  PASSWORD: "EPAIUNISBA25",
 
   // 🧠 AI MODEL — auto-set based on provider
   MODEL: "claude-sonnet-4-20250514",
